@@ -40,3 +40,12 @@ a {
 	max-height: 116px;
 	padding-top: 15px;
 }
+
+.modal-content {
+	background: #000033;
+}
+
+.btn-close {
+	background: #000033;
+	border: none;
+}
